@@ -1,9 +1,3 @@
----
-目标:
-  - 理解面向对象开发思想
-  - 掌握 JavaScript 面向对象开发相关模式
-  - 掌握在 JavaScript 中使用正则表达式
----
 
 # JavaScript 高级
 
