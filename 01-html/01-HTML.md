@@ -1,7 +1,7 @@
 
 # HTML
 
-# 开发工具
+## 开发工具
 
 主要用的 开发工具有   chrome  、  sublime 、  photoshop
 
