@@ -996,13 +996,13 @@ for 属性规定 label 与哪个表单元素绑定。
 
 
 
-**<select>标签的属性：**
+**select标签的属性：**
 
 - `multiple`：可以对下拉列表中的选项进行多选。没有属性值。
 - `size="3"`：默认显示3个列表项，如果属性值大于3，则列表为可滚动列表。默认属性值为1，即下拉菜单。
 - &lt;select&gt;</select&gt;中至少应包含一对&lt;option></option&gt;。
 
-**<option>标签的属性：**
+**option标签的属性：**
 
 - `selected`：预选中，当前项即为默认选中项。可设置为 selected =" selected " 或者直接设置 selected。
 
