@@ -437,7 +437,7 @@ var age = obj.age;
 `typeof`：检测一个操作数的数据类型
 
 通过`typeof`操作符可以区分函数和其他对象
-`typeof`是检测`string、boolean、number、undefined、function`的最佳工具。
+`typeof`是检测`string、boolean、number、undefined、function、symbol`的最佳工具。
 `typeof`无法区分object 和 null，它检测 null 和 对象时，都会返回 object，因为从逻辑上讲，null是一个空对象指针。
 
 返回值： 返回数据类型的字符串，如检测一个变量是Number数据类型的，就返回 ”number“。
